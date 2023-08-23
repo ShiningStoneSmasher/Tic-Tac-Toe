@@ -24,3 +24,9 @@ td {
     background-color: rgb(71, 71, 71);
     cursor: pointer;
 }
+#content {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
